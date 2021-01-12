@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Loja.Data\Loja.Infra.Data.csproj" />
+    <ProjectReference Include="..\Loja.Domain\Loja.Domain.csproj" />
+    <ProjectReference Include="..\Loja.Infra.Shared\Loja.Infra.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

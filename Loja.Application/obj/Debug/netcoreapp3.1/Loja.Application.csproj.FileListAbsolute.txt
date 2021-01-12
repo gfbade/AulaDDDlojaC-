@@ -1,0 +1,8 @@
+C:\Users\Lucas\source\repos\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Loja.Application.deps.json
+C:\Users\Lucas\source\repos\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Loja.Application.dll
+C:\Users\Lucas\source\repos\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Loja.Application.pdb
+C:\Users\Lucas\source\repos\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Loja.Application.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Loja.Application.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Loja.Application.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Loja.Application.dll
+C:\Users\Lucas\source\repos\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Loja.Application.pdb

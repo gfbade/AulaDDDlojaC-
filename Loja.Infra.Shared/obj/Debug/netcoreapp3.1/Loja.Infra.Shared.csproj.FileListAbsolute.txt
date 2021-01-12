@@ -1,0 +1,12 @@
+C:\Users\Lucas\source\repos\Loja\Loja.Infra.Shared\bin\Debug\netcoreapp3.1\Loja.Infra.Shared.deps.json
+C:\Users\Lucas\source\repos\Loja\Loja.Infra.Shared\bin\Debug\netcoreapp3.1\Loja.Infra.Shared.dll
+C:\Users\Lucas\source\repos\Loja\Loja.Infra.Shared\bin\Debug\netcoreapp3.1\Loja.Infra.Shared.pdb
+C:\Users\Lucas\source\repos\Loja\Loja.Infra.Shared\bin\Debug\netcoreapp3.1\Loja.Domain.dll
+C:\Users\Lucas\source\repos\Loja\Loja.Infra.Shared\bin\Debug\netcoreapp3.1\Loja.Domain.pdb
+C:\Users\Lucas\source\repos\Loja\Loja.Infra.Shared\obj\Debug\netcoreapp3.1\Loja.Infra.Shared.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Loja\Loja.Infra.Shared\obj\Debug\netcoreapp3.1\Loja.Infra.Shared.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Loja\Loja.Infra.Shared\obj\Debug\netcoreapp3.1\Loja.Infra.Shared.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Loja\Loja.Infra.Shared\obj\Debug\netcoreapp3.1\Loja.Infra.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Loja\Loja.Infra.Shared\obj\Debug\netcoreapp3.1\Loja.Infra.Shared.csproj.CopyComplete
+C:\Users\Lucas\source\repos\Loja\Loja.Infra.Shared\obj\Debug\netcoreapp3.1\Loja.Infra.Shared.dll
+C:\Users\Lucas\source\repos\Loja\Loja.Infra.Shared\obj\Debug\netcoreapp3.1\Loja.Infra.Shared.pdb
